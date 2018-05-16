@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28104" started-at="2018-05-16T15:12:22Z" finished-at="2018-05-16T15:12:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28104" started-at="2018-05-16T15:12:22Z" finished-at="2018-05-16T15:12:50Z">
+      <class name="Understanding.Understanding_Me">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Understanding.Understanding_Me@482f8f11]" name="beforeMethod" is-config="true" duration-ms="3483" started-at="2018-05-16T16:12:37Z" finished-at="2018-05-16T16:12:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:Understanding.Understanding_Me@482f8f11]" name="f" duration-ms="8582" started-at="2018-05-16T16:12:40Z" finished-at="2018-05-16T16:12:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Understanding.Understanding_Me@482f8f11]" name="afterMethod" is-config="true" duration-ms="1049" started-at="2018-05-16T16:12:49Z" finished-at="2018-05-16T16:12:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Understanding.Understanding_Me -->
+      <class name="com.CHAPTER1.LoginTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.CHAPTER1.LoginTest@675d3402]" name="beforeMethod" is-config="true" duration-ms="4543" started-at="2018-05-16T16:12:22Z" finished-at="2018-05-16T16:12:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:com.CHAPTER1.LoginTest@675d3402]" name="f" duration-ms="1262" started-at="2018-05-16T16:12:26Z" finished-at="2018-05-16T16:12:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.CHAPTER1.LoginTest@675d3402]" name="afterMethod" is-config="true" duration-ms="1081" started-at="2018-05-16T16:12:27Z" finished-at="2018-05-16T16:12:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.CHAPTER1.LoginTest -->
+      <class name="com.CHAPTER1.BingTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.CHAPTER1.BingTest@51565ec2]" name="beforeMethod" is-config="true" duration-ms="3469" started-at="2018-05-16T16:12:28Z" finished-at="2018-05-16T16:12:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:com.CHAPTER1.BingTest@51565ec2]" name="f" duration-ms="621" started-at="2018-05-16T16:12:32Z" finished-at="2018-05-16T16:12:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.CHAPTER1.BingTest@51565ec2]" name="afterMethod" is-config="true" duration-ms="3994" started-at="2018-05-16T16:12:33Z" finished-at="2018-05-16T16:12:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.CHAPTER1.BingTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
